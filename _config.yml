@@ -2,13 +2,13 @@
 title: Industrial AI Lab
 position: Led by Asst. Prof. Marvin Carl May
 affiliation: Nanyang Technological University Singapore
-affiliation_link: https://www.ntu.edu.sg/mae
+affiliation_link: https://dr.ntu.edu.sg/entities/person/Marvin-Carl-May
 affiliation_logo: assets/img/IAI_Monogram_Yellow_DarkGrey.svg
 email: marvin.may (∂t) ntu.edu.sg
 
 # Search Engine Optimization (SEO)
 keywords: Marvin Carl May, Industrial AI Lab, NTU, Nanyang Technological University, manufacturing AI, semiconductor manufacturing, digital twins, generative AI for engineering
-canonical: https://www.ntu.edu.sg/mae
+canonical: https://ntu-iai-lab.github.io/
 description: The Industrial AI Lab at NTU Singapore develops artificial intelligence, digital twins, simulation, and optimization methods for manufacturing systems, semiconductor operations, engineering design, and circular economy applications.
 
 # The option is kept for compatibility with the original template.

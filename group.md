@@ -132,17 +132,6 @@ permalink: /research-group/
 <p class="textsectionheader2">Master's Students</p>
 <hr/>
 <ul class="compact-name-list">
-  <li>Clement Wei Hong Luke</li>
-  <li>Haziq Faiz Bin Rosman</li>
-  <li>Choi Yin Ng</li>
-  <li>Pan Yue Siew</li>
-  <li>Muhamad Faresh Bin Muhamad Anuar</li>
-  <li>Rachel Jie Min Heer</li>
-  <li>Junjie Lu</li>
-  <li>Alexander Umesh Prabhu</li>
-  <li>Addison Yam</li>
-  <li>Fritz Luhur</li>
-  <li>Jia En Lau</li>
   <li><a href="https://www.linkedin.com/in/28988b379">Wentian Xiao</a></li>
   <li>Binyao Zhang</li>
   <li>Chengyao Jing</li>
@@ -154,6 +143,11 @@ permalink: /research-group/
 <p class="textsectionheader2">Bachelor's Students</p>
 <hr/>
 <ul class="compact-name-list">
+  <li>Clement Wei Hong Luke</li>
+  <li>Haziq Faiz Bin Rosman</li>
+  <li>Choi Yin Ng</li>
+  <li>Pan Yue Siew</li>
+  <li>Muhamad Faresh Bin Muhamad Anuar</li>
   <li>Vania Jovelyn Nando</li>
   <li>Ryan Hui Yip</li>
   <li>Devansh Poddar</li>
@@ -163,6 +157,12 @@ permalink: /research-group/
   <li>Shi Ting Ong</li>
   <li>Kymberlyn Loo Jie (Kym) Ning</li>
   <li>Yan Shan (Jerry) Yap</li>
+  <li>Rachel Jie Min Heer</li>
+  <li>Junjie Lu</li>
+  <li>Alexander Umesh Prabhu</li>
+  <li>Addison Yam</li>
+  <li>Fritz Luhur</li>
+  <li>Jia En Lau</li>
   <li>Wenda Chang</li>
   <li>Siravit Keeratipranon</li>
   <li>Angel Natalia</li>
