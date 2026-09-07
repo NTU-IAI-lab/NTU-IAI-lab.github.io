@@ -76,7 +76,7 @@ permalink: /research-group/
       <span class="memberrole">
         <span class="memberrole-line">PhD Student</span>
         <span class="memberrole-line">Provost Graduate Awardee</span>
-        <span class="memberrole-line">Generative AI for industrial systems</span>
+        <span class="memberrole-line">AI for Industrial Robotic Systems</span>
       </span>
     </div>
   </div>
