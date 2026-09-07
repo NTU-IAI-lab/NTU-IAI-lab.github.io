@@ -76,7 +76,7 @@ permalink: /research-group/
       <span class="memberrole">
         <span class="memberrole-line">PhD Student</span>
         <span class="memberrole-line">Provost Graduate Awardee</span>
-        <span class="memberrole-line">AI for Industrial Robotic Systems</span>
+        <span class="memberrole-line">AI for Industrial Robotics Systems <br> and Genetic Algorithms</span>
       </span>
     </div>
   </div>
