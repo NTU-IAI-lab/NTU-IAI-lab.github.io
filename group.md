@@ -28,7 +28,7 @@ permalink: /research-group/
 <div class="member-grid">
 
   <div class="member-card">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQFfDvq_tbg7Yg/profile-displayphoto-crop_800_800/B56Zx5GuqVJUAM-/0/1771558338413?e=1790208000&v=beta&t=FfKL4WlFiTdu_gXvM_Uf_hQw4gr8fvwJvS1yBptJPgQ" alt="Haolin Fan" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/members/haolin-fan.jpg" alt="Haolin Fan" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
     <div style="margin-top:10px;">
       <span class="member-name"><a href="https://oliverfanhl.github.io/">Haolin Fan</a></span>
       <span class="memberrole">
@@ -46,7 +46,7 @@ permalink: /research-group/
 <div class="member-grid">
 
   <div class="member-card">
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQF14wFpomuung/profile-displayphoto-crop_800_800/B4EZ300TLTKEAM-/0/1777928847985?e=1790208000&v=beta&t=Dn2FpULVZx8pYr4uWrVpzO6B3Qfbv91sYopn_PuMSTc" alt="Muyang Lyu" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/members/muyang-lyu.jpg" alt="Muyang Lyu" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
     <div style="margin-top:10px;">
       <span class="member-name"><a href="https://de.linkedin.com/in/muyang-lv/de">Muyang Lyu</a></span>
       <span class="memberrole">
@@ -58,7 +58,7 @@ permalink: /research-group/
   </div>
 
   <div class="member-card">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQHGcseY3Mzjvg/profile-displayphoto-crop_800_800/B56Z_.rRTjIwAI-/0/1786684186371?e=1790208000&v=beta&t=W-WjUcWG1en9oIb8tGqcgqWlHJGCtXSVrSBkHU-TjY4" alt="Zibo Meng" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/members/zibo-meng.jpg" alt="Zibo Meng" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
     <div style="margin-top:10px;">
       <span class="member-name"><a href="https://de.linkedin.com/in/zibo-meng-875631331">Zibo Meng</a></span>
       <span class="memberrole">
@@ -70,7 +70,7 @@ permalink: /research-group/
   </div>
 
   <div class="member-card">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQGAmJi64m6CMg/profile-displayphoto-crop_800_800/B56Z_wwroxHUAM-/0/1786450722374?e=1790208000&v=beta&t=tCAoXipayLGhliIUSlKn3KkD_NgjSPK8ogXwE6Xvg_k" alt="Dave Christopher Hong" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/members/dave-christopher-hong.jpg" alt="Dave Christopher Hong" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
     <div style="margin-top:10px;">
       <span class="member-name"><a href="https://sg.linkedin.com/in/davechristopherh">Dave Christopher Hong</a></span>
       <span class="memberrole">
@@ -88,17 +88,7 @@ permalink: /research-group/
 <div class="member-grid">
 
   <div class="member-card">
-    <img src="https://www.wbk.kit.edu/img/Gleich_Kevin%20Cropped_rdax_230x327s.jpg" alt="Kevin Gleich" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
-    <div style="margin-top:10px;">
-      <span class="member-name"><a href="https://www.linkedin.com/in/kevin-gleich-2a5879200/">Kevin Gleich</a></span>
-      <span class="memberrole">
-        <span class="memberrole-line">Visiting Scholar</span>
-      </span>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <img src="/assets/img/member-placeholder.svg" alt="Robin Schumacher" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/member-placeholder.svg" alt="Robin Schumacher" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
     <div style="margin-top:10px;">
       <span class="member-name">Robin Schumacher</span>
       <span class="memberrole">
@@ -108,9 +98,9 @@ permalink: /research-group/
   </div>
 
   <div class="member-card">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGHbSHjVhuY_w/profile-displayphoto-crop_800_800/B4DZvCBfKdJQAI-/0/1768486729120?e=1790208000&v=beta&t=X2fxi7WmeZFFEgmOT5RhpgYOJurfOztPrk8PzY5zoqs" alt="Sophia Hartmann" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/member-placeholder.svg" alt="Christian Stricker" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
     <div style="margin-top:10px;">
-      <span class="member-name"><a href="https://www.linkedin.com/in/sophia-hartmann-148863257/">Sophia Hartmann</a></span>
+      <span class="member-name">Christian Stricker</span>
       <span class="memberrole">
         <span class="memberrole-line">Visiting Student</span>
       </span>
@@ -118,11 +108,41 @@ permalink: /research-group/
   </div>
 
   <div class="member-card">
-    <img src="/assets/img/member-placeholder.svg" alt="Christian Stricker" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/member-placeholder.svg" alt="Raphaël Etienne" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
     <div style="margin-top:10px;">
-      <span class="member-name">Christian Stricker</span>
+      <span class="member-name">Raphaël Etienne</span>
       <span class="memberrole">
-        <span class="memberrole-line">Visiting Student</span>
+        <span class="memberrole-line">Mechanical Engineering Student</span>
+      </span>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/members/valentin-weiss.jpg" alt="Valentin Weiss" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <div style="margin-top:10px;">
+      <span class="member-name"><a href="https://www.linkedin.com/in/valentin-weiss-7b7578249/">Valentin Weiss</a></span>
+      <span class="memberrole">
+        <span class="memberrole-line">Industrial Engineering Student</span>
+      </span>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/members/maurus-keeve.jpg" alt="Maurus Keeve" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <div style="margin-top:10px;">
+      <span class="member-name"><a href="https://www.linkedin.com/in/maurus-keeve/">Maurus Keeve</a></span>
+      <span class="memberrole">
+        <span class="memberrole-line">B.Sc. Industrial Engineering and Management</span>
+      </span>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/members/jennifer-mona-liesen.jpg" alt="Jennifer Mona Liesen" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
+    <div style="margin-top:10px;">
+      <span class="member-name"><a href="https://www.linkedin.com/in/jennifer-liesen/">Jennifer Mona Liesen</a></span>
+      <span class="memberrole">
+        <span class="memberrole-line">M.Sc. Business Analytics and Econometrics</span>
       </span>
     </div>
   </div>
@@ -138,6 +158,10 @@ permalink: /research-group/
   <li>Zhan Wu</li>
   <li>Sisi Yao</li>
   <li>Meng Wang</li>
+  <li>Yiyang Zhang</li>
+  <li>Yicheng Wang</li>
+  <li>Xiwen Huang</li>
+  <li>Qi Chang</li>
 </ul>
 
 <p class="textsectionheader2">Bachelor's Students</p>
@@ -182,6 +206,11 @@ permalink: /research-group/
 <hr/>
 <div class="alumni-list">
   <div class="alumni-entry">
-    <span class="alumni-role">To be updated.</span>
+    <a href="https://www.linkedin.com/in/kevin-gleich-2a5879200/">Kevin Gleich</a>
+    <span class="alumni-role">Former Visiting Scholar</span>
+  </div>
+  <div class="alumni-entry">
+    <a href="https://www.linkedin.com/in/sophia-hartmann-148863257/">Sophia Hartmann</a>
+    <span class="alumni-role">Former Visiting Student</span>
   </div>
 </div>
