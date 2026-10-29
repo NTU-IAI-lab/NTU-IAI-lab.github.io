@@ -48,11 +48,11 @@ permalink: /research-group/
   <div class="member-card">
     <img width="110" height="110" loading="lazy" decoding="async" src="/assets/img/members/muyang-lyu.jpg" alt="Muyang Lyu" style="width:110px; height:110px; object-fit:cover;" class="papericon"/>
     <div style="margin-top:10px;">
-      <span class="member-name"><a href="https://de.linkedin.com/in/muyang-lv/de">Muyang Lyu</a></span>
+      <span class="member-name"><a href="https://muyang0110.github.io/">Muyang Lyu</a></span>
       <span class="memberrole">
         <span class="memberrole-line">PhD Student</span>
         <span class="memberrole-line">NTU Research Scholarship</span>
-        <span class="memberrole-line">Embodied AI and manufacturing systems</span>
+        <span class="memberrole-line">Embodied AI and smart manufacturing systems</span>
       </span>
     </div>
   </div>
